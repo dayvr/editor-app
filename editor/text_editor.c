@@ -1,17 +1,6 @@
 #include <stdio.h>
 
-// Create a program that implements a simple text editor.
-// The editor should have the following features:
-// - The user can type in commands to manipulate the text.
-// STEP 1: Start the program execution.
-// STEP 2: List the menu.
-// STEP 3: Get the choice.
-// STEP 4: If choice is 1, create a new file.
-// STEP 5: If choice is 2, view the required file.
-//STEP 6: If choice is 3, get the file name to be edited, enter the new text.
-// STEP 7: If choice is 4, delete the file.
-// STEP 8: If choice is 5, exit.
-// STEP 9: Stop the program execution.
+// Program that implements a simple text editor.
 
 int main() {
     printf("1. Create a new file\n");
